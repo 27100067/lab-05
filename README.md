@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mina Zeeshan`
+- **CCID:** `27100067`
 
 ## References and Resources
 
